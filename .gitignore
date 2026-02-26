@@ -1,0 +1,11 @@
+# R session files
+.RData
+.Rhistory
+.RDataTmp
+
+# Raw data (large external datasets)
+data/raw/*
+
+# Processed objects
+outputs/objects/*.rds
+

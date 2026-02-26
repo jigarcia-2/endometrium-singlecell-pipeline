@@ -1,0 +1,48 @@
+R version 4.3.3 (2024-02-29 ucrt)
+Platform: x86_64-w64-mingw32/x64 (64-bit)
+Running under: Windows 11 x64 (build 26200)
+
+Matrix products: default
+
+
+locale:
+[1] LC_COLLATE=Spanish_Spain.utf8  LC_CTYPE=Spanish_Spain.utf8    LC_MONETARY=Spanish_Spain.utf8
+[4] LC_NUMERIC=C                   LC_TIME=Spanish_Spain.utf8    
+
+time zone: America/Buenos_Aires
+tzcode source: internal
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+[1] hdf5r_1.3.12          ggplot2_3.5.2         patchwork_1.3.0       dplyr_1.1.4          
+[5] SeuratDisk_0.0.0.9021 Seurat_5.2.1          SeuratObject_5.0.2    sp_2.2-0             
+
+loaded via a namespace (and not attached):
+  [1] deldir_2.0-4           pbapply_1.7-4          gridExtra_2.3          rlang_1.1.5           
+  [5] magrittr_2.0.3         RcppAnnoy_0.0.22       matrixStats_1.5.0      ggridges_0.5.7        
+  [9] compiler_4.3.3         spatstat.geom_3.3-6    png_0.1-8              vctrs_0.6.5           
+ [13] reshape2_1.4.4         stringr_1.6.0          crayon_1.5.3           pkgconfig_2.0.3       
+ [17] fastmap_1.2.0          labeling_0.4.3         promises_1.3.2         bit_4.6.0             
+ [21] purrr_1.0.4            jsonlite_2.0.0         goftest_1.2-3          later_1.4.1           
+ [25] spatstat.utils_3.1-3   irlba_2.3.5.1          parallel_4.3.3         cluster_2.1.6         
+ [29] R6_2.6.1               ica_1.0-3              stringi_1.8.7          RColorBrewer_1.1-3    
+ [33] spatstat.data_3.1-9    reticulate_1.42.0      parallelly_1.43.0      spatstat.univar_3.1-2 
+ [37] lmtest_0.9-40          scattermore_1.2        Rcpp_1.0.14            tensor_1.5.1          
+ [41] future.apply_1.11.3    zoo_1.8-13             sctransform_0.4.1      httpuv_1.6.15         
+ [45] Matrix_1.6-5           splines_4.3.3          igraph_2.1.4           tidyselect_1.2.1      
+ [49] abind_1.4-8            codetools_0.2-19       spatstat.random_3.3-3  miniUI_0.1.1.1        
+ [53] spatstat.explore_3.4-2 listenv_0.10.0         lattice_0.22-5         tibble_3.2.1          
+ [57] plyr_1.8.9             withr_3.0.2            shiny_1.10.0           ROCR_1.0-12           
+ [61] Rtsne_0.17             future_1.34.0          fastDummies_1.7.5      survival_3.5-8        
+ [65] polyclip_1.10-7        fitdistrplus_1.2-6     pillar_1.11.1          KernSmooth_2.23-22    
+ [69] plotly_4.12.0          generics_0.1.4         RcppHNSW_0.6.0         munsell_0.5.1         
+ [73] scales_1.3.0           globals_0.19.0         xtable_1.8-4           glue_1.8.0            
+ [77] lazyeval_0.2.2         tools_4.3.3            data.table_1.17.0      RSpectra_0.16-2       
+ [81] RANN_2.6.2             dotCall64_1.2          cowplot_1.2.0          grid_4.3.3            
+ [85] tidyr_1.3.1            colorspace_2.1-1       nlme_3.1-164           cli_3.6.4             
+ [89] spatstat.sparse_3.1-0  spam_2.11-1            viridisLite_0.4.3      uwot_0.2.3            
+ [93] gtable_0.3.6           digest_0.6.37          progressr_0.18.0       ggrepel_0.9.6         
+ [97] htmlwidgets_1.6.4      farver_2.1.2           htmltools_0.5.8.1      lifecycle_1.0.5       
+[101] httr_1.4.7             mime_0.13              bit64_4.6.0-1          MASS_7.3-60.0.1       
